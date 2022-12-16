@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, max-scale=1.0">
 		
-		<title>ROLETA PREMIADA - BRISANET (GRUPO VENDEDORES EXTERNOS)</title>
+		<title>ROLETA PREMIADA (GRUPO VENDEDORES EXTERNOS)</title>
 		<script src="jquery.js"></script>
 		<script src="phaser.js"></script>
 		<link rel="preconnect" href="https://fonts.googleapis.com">
